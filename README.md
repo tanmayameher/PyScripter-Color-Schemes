@@ -7,8 +7,8 @@ This repo contains some DARK and LIGHT COLOR SCHEMES for PyScripter IDE
 
 Steps for using the color schemes:
 
-1. Download the color scheme folder (You must have installed [Python](https://www.python.org/download) and
-[PyScripter](https://code.google.com/p/pyscripter)).
+1. Download this color scheme repo **(You must have installed [Python](https://www.python.org/download) and
+[PyScripter](https://code.google.com/p/pyscripter))**.
 
 2. Open PyScripter. In the **Menu bar**, find and click `Tools > Options >
 Import/Export > Import Highlighters`.
