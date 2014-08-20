@@ -1,5 +1,5 @@
-#PyScripter-Color-Schemes
-#========================
+PyScripter-Color-Schemes
+========================
 
 #Color Schemes for PyScripter IDE
 
