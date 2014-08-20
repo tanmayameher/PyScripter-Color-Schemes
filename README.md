@@ -1,7 +1,7 @@
-PyScripter-Color-Schemes
-========================
+#PyScripter-Color-Schemes
+#========================
 
-Color Schemes for PyScripter IDE
+#Color Schemes for PyScripter IDE
 
 This repo contains some DARK and LIGHT COLOR SCHEMES for PyScripter IDE
 (An IDE for Python Windows platform only).
